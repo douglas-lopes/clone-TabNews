@@ -1,5 +1,5 @@
 function Home() {
-return <h1>Te amo pincesa</h1>
+return <h1>Te amo mais ainda pincesa</h1>
 
 }
 
